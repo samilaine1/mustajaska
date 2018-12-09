@@ -1,0 +1,31 @@
+﻿﻿MustaJaska a.k.a Blackjack 
+  
+Blackjackissa pelaajat pyrkivät saamaan korteillaan suuremman summan kuin jakaja. Korttien summan tulee olla mahdollisimman lähelle 21, 
+mutta yli ei saa mennä - kaikki kädet, joiden summa on yli 21, häviävät automaattisesti. 
+Pelaaja voittaa, jos pysyy alle 21:n ja saa suuremman summan kuin jakaja tai jos jakaja menee yli 21:n. Jakaja voittaa, jos pelaaja menee yli 21:n tai saa suuremman summan kuin pelaaja. Tasatilanteessa (englanniksi "push") pelaaja saa panoksensa takaisin. 
+  
+Korttien arvot: 
+  
+Numerokortit: sama kuin kortin numero (2-10) 
+Kuvakortit, paitsi ässä: 10 
+Ässä: 1 tai 11 pelaajan toiveesta riippuen 
+Jos pelaajalle jaettujen kahden ensimmäisen kortin arvojen summa on 21 (ts. kymppi tai kuvakortti + ässä), on pelaajalla blackjack. Tällä hän voittaa jakajan kaikki muut kädet paitsi jakajan oman blackjackin, jolloin peli menee tasan. Jos pelaajalla on blackjack ja jakajalla ei, pelaaja saa panoksensa takaisin voittosuhteella 3:2. 
+  
+Ohjeet pelin kulkuun: 
+  
+Pelin alussa pelaaja asettaa panoksen, jonka jälkeen jakaja jakaa pelaajille ja itselleen kaksi korttia. Jakajan omista korteista toinen on kuvapuoli ylöspäin ja toinen alaspäin. On hyvä huomata, että eurooppalaisen BlackJackin säännöt eroavat amerikkalaisesta sikäli, että jakajalla on vain yksi kortti ja lisäkortti jaetaan vasta pelaajien toimittua. 
+Kun aloituskortit on jaettu, toimitaan seuraavalla tavalla: 
+Mikäli pelaajalla on blackjack ja jakajalla ei, pelaaja voittaa. 
+Mikäli jakajalla on blackjack ja pelaajalla ei, pelaaja häviää. 
+Mikäli pelaajalla ja jakajalla on blackjack molemmilla, on peli tasan (push) ja pelaaja saa panoksensa takaisin* 
+Mikäli tilanne ei ole yksikään yllä mainitusta kolmesta tilanteesta, peli jatkuu yhdellä alla olevista toiminnoista. Ensin toimivat pelaajat ja vasta sitten jakaja. 
+  
+Pelaajan toiminnot: 
+  
+Kun pelaajalle on jaettu kaksi ensimmäistä korttia, hänellä on muutama toiminto käytössään. Nämä on esitelty alla. Suomenkieliset termit on merkitty sulkuihin englanninkielisten termien jälkeen. 
+Hit (anna) - Pelaaja ottaa yhden kortin lisää. 
+Stand (jää) - Pelaaja on tyytyväinen omaan käteensä eikä hän halua lisäkortteja. Vuoro siirtyy jakajalle. 
+Double down (tuplaus) - Pelaaja tuplaa panoksensa ja saa tasan yhden lisäkortin. 
+Split (splittaus) - Pelaaja tuplaa ja jakaa kätensä: kaksi yhden käden muodostanutta korttia ovatkin nyt ensimmäiset yksittäiset kortit kahdessa uudessa kädessä. Pelaaja jatkaa näiden kahden uuden käden pelaamista normaalisti. Splitata voi normaalisti vain kaksi saman arvoista korttia. Kysy tai lue pelipaikkasi säännöt tämän asian suhteen ennen pelaamista. 
+Insurance (vakuutus) - Kun jakajan näkyvä kortti on ässä, pelaaja voi ottaa ns. vakuutuksen. Pelaaja joka haluaa vakuutuksen, maksaa puolet alkuperäisen panoksensa koosta. Jos jakajalla on blackjack, pelaaja voittaa vakuutuksensa kolminkertaisena takaisin. Näin vakuutuksen ottanut pelaaja jää kädellään tasan omilleen. Jos jakajalla ei ole blackjackiä, pelaaja häviää vakuutukseen menneen summan. 
+Pelaaja voi jatkaa toimintaansa niin pitkään kunnes hän valitsee standin tai käden arvo ylittää 21. Pelaajan toimittua on jakajan vuoro toimia. Monella kasinolla on tapana, että jakajan täytyy ottaa lisää kortteja mikäli hänen kätensä arvo on 17 tai yli. Mikäli jakajan käsien arvo ylittää 21 tai pelaajan käsi on lähempänä 21:tä, pelaaja voittaa panoksensa kaksinkertaisena takaisin.
